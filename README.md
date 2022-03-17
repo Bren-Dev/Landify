@@ -1,5 +1,3 @@
-O site não está responsivo <br/>
-Desenvolvido em 2 dias
 
 ## Link para acessar o site: 
 
